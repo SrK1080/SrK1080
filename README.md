@@ -1,5 +1,7 @@
 # I am Shubham 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrK1080)](https://github.com/SrK1080/github-readme-stats)
 <!--
 **SrK1080/SrK1080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
