@@ -1,7 +1,7 @@
 # I am Shubham 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrK1080)](https://github.com/SrK1080/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrK1080&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrK1080&layout=compact)
 <!--
 **SrK1080/SrK1080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
